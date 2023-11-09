@@ -76,9 +76,13 @@ Concern with the strucrure (e.g class members)
    facilitates communication between components
    a componnet that facilitates communication between other components Wwithout them necesarry being aware of each other having direct reference or access to each other
 6. memento
+   a token or handle class for representing the system in at particular point of time, let us rolling back when the token was generated
 7. observer
+   is an object that wishes to be informed about events happening in the system. the entity generating the events is an observable
 8. State
+   a pattern in which the object's behavior is determined by its state, changing from one state to another shoudl be triggered by something
 9. Strategy
+   enables the exact behavior of a system to be selected at run time
 10. Template Method
 11. Visitor
 
